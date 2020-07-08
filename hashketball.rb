@@ -1,4 +1,4 @@
-
+require 'pry'
 
 
   {
@@ -129,3 +129,4 @@
     }
     
   }
+binding.pry
