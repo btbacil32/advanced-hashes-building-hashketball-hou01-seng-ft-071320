@@ -1,6 +1,6 @@
 require 'pry'
 
-
+def hashketball
   {
   :home => {
     :team_name => "Brooklyn Nets",
