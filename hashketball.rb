@@ -131,3 +131,5 @@ def hashketball
   }
 binding.pry
 end
+
+game_hash[:away][:players].map
