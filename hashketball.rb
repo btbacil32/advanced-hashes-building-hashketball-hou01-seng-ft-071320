@@ -1,4 +1,4 @@
 def hashketball
-new.Hash
+new.Hash = game_hash
 
 end
